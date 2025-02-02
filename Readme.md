@@ -22,6 +22,8 @@ This project investigates the socioeconomic and public safety impacts of **ShotS
 - **Data Cleaning**: Addressed missing values and inconsistencies.
 - **Merging datasets** for housing price & ShotSpotter correlation analysis.
 
+#### For data security reasons, I cannot disclose the sources or details of the dataset, as it belongs to the external organization I collaborated with.
+
 ---
 
 ##  Methodology
